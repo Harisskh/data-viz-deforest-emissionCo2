@@ -1,4 +1,4 @@
-year,country,country_iso2,region,region_trase_id,parent_region,parent_region_trase_id,gross_greenhouse_gas_emissions_from_deforestation_tonnes_co₂-
+year,country,country_iso2,region,region_trase_id,parent_region,parent_region_trase_id,emisi_co2_ton
 2001,INDONESIA,ID,ACEH,ID-11,SUMATERA,ID-SM,1782573.796
 2001,INDONESIA,ID,BALI,ID-51,NUSA TENGGARA,ID-NU,1907.890281
 2001,INDONESIA,ID,BANTEN,ID-36,JAWA,ID-JW,465.0026893
